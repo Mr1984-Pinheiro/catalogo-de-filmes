@@ -1,0 +1,407 @@
+{
+  "dates": {
+    "maximum": "2022-11-16",
+    "minimum": "2022-09-29"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/y5Z0WesTjvn59jP6yo459eUsbli.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 663712,
+      "original_language": "en",
+      "original_title": "Terrifier 2",
+      "overview": "Após ser ressuscitado por uma entidade sinistra, Art, o Palhaço, retorna ao Condado de Miles, onde irá à caça de uma adolescente e seu irmão mais novo na noite de Halloween.",
+      "popularity": 3715.544,
+      "poster_path": "/wRKHUqYGrp3PO91mZVQ18xlwYzW.jpg",
+      "release_date": "2022-10-06",
+      "title": "Aterrorizante 2",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 539
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+      "genre_ids": [
+        28,
+        14,
+        878
+      ],
+      "id": 436270,
+      "original_language": "en",
+      "original_title": "Black Adam",
+      "overview": "Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.",
+      "popularity": 3104.938,
+      "poster_path": "/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg",
+      "release_date": "2022-10-19",
+      "title": "Adão Negro",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 991
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+      "genre_ids": [
+        28,
+        18,
+        36,
+        10752
+      ],
+      "id": 49046,
+      "original_language": "de",
+      "original_title": "Im Westen nichts Neues",
+      "overview": "Convocado para a linha de frente da Primeira Guerra Mundial, o adolescente Paul encara a dura realidade da vida nas trincheiras.",
+      "popularity": 2467.37,
+      "poster_path": "/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+      "release_date": "2022-10-07",
+      "title": "Nada de Novo no Front",
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 637
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 505642,
+      "original_language": "en",
+      "original_title": "Black Panther: Wakanda Forever",
+      "overview": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.",
+      "popularity": 1674.481,
+      "poster_path": "/6tb0qiqLN9szHPA4i0kY38oaWew.jpg",
+      "release_date": "2022-11-09",
+      "title": "Pantera Negra: Wakanda para Sempre",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 142
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 985939,
+      "original_language": "en",
+      "original_title": "Fall",
+      "overview": "Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.",
+      "popularity": 1419.383,
+      "poster_path": "/53AC95HTGvFYA8ZRkGgeYo7lBRo.jpg",
+      "release_date": "2022-08-11",
+      "title": "A Queda",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1690
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yo0qfH2dQGGMxkfivdkz5zxVatD.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 830788,
+      "original_language": "en",
+      "original_title": "The Invitation",
+      "overview": "Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA… e descobre um primo perdido que ela não sabia que existia. Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.",
+      "popularity": 1269.258,
+      "poster_path": "/2JdYO1vmuDcqVgZD3nPEpdX7GvI.jpg",
+      "release_date": "2022-08-24",
+      "title": "Convite Maldito",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 298
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tIX6j3NzadlwGcJ52nuWdmtOQkg.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 717728,
+      "original_language": "en",
+      "original_title": "Jeepers Creepers: Reborn",
+      "overview": "Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.",
+      "popularity": 1294.477,
+      "poster_path": "/p3JX4YPcJOCPp8MSjL6mg7ZhHgA.jpg",
+      "release_date": "2022-09-15",
+      "title": "Olhos Famintos 4: Renascimento",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 440
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u9Io1hVnxb2b3T0z99aOK8sq0SN.jpg",
+      "genre_ids": [
+        9648,
+        12,
+        80
+      ],
+      "id": 829280,
+      "original_language": "en",
+      "original_title": "Enola Holmes 2",
+      "overview": "Depois dos eventos de Enola Holmes, o segundo filme acompanha Enola (Millie Bobby Brown) em um caso \"de verdade!\". Agora uma detetive de aluguel igual ao seu irmão, Sherlock (Henry Cavill), a detetive assume seu primeiro caso oficial. Enola é requisitada para achar uma garota desaparecida, mas à medida que sua investigação continua, ela descobre que há muito mais em jogo do que apenas um desaparecimento. As faíscas de uma perigosa conspiração acendem um mistério que requer a ajuda de amigos – incluindo a dos seus irmãos – para desvendar.",
+      "popularity": 1624.116,
+      "poster_path": "/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+      "release_date": "2022-11-04",
+      "title": "Enola Holmes 2",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 565
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 361743,
+      "original_language": "en",
+      "original_title": "Top Gun: Maverick",
+      "overview": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+      "popularity": 1399.744,
+      "poster_path": "/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg",
+      "release_date": "2022-05-24",
+      "title": "Top Gun: Maverick",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 4651
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5GA3vV1aWWHTSDO5eno8V5zDo8r.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 760161,
+      "original_language": "en",
+      "original_title": "Orphan: First Kill",
+      "overview": "Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como \"Esther\" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo.",
+      "popularity": 978.77,
+      "poster_path": "/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg",
+      "release_date": "2022-07-27",
+      "title": "Órfã 2: A Origem",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1262
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u6WzMRpTkGzIlfsPNtDfIBfEy9z.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648,
+        53
+      ],
+      "id": 848791,
+      "original_language": "en",
+      "original_title": "The Stranger",
+      "overview": "Um policial disfarçado constrói uma conexão intensa com um suspeito de assassinato para ganhar a confiança dele e conseguir uma confissão.",
+      "popularity": 876.496,
+      "poster_path": "/pt4Ukp5FzN3PFFiG14E6phEV2rZ.jpg",
+      "release_date": "2022-10-06",
+      "title": "O Desconhecido",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 100
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/Ach0puWzxuO2imh1yWEUK7CGsx.jpg",
+      "genre_ids": [
+        16,
+        12,
+        28,
+        14
+      ],
+      "id": 900667,
+      "original_language": "ja",
+      "original_title": "ONE PIECE FILM RED",
+      "overview": "Uta — o cantor mais amado do mundo. Sua voz, com a qual ela canta enquanto esconde sua verdadeira identidade, foi descrita como “de outro mundo”. Ela aparecerá em público pela primeira vez em um show ao vivo. À medida que o local se enche de todos os tipos de fãs de Uta – piratas animados, a Marinha assistindo de perto e os Chapéus de Palha liderados por Luffy que simplesmente vieram curtir sua performance sonora – a voz que o mundo inteiro estava esperando está prestes a ressoar.",
+      "popularity": 947.623,
+      "poster_path": "/wwwBQK45qSedBdgQGuJXdwJOQE2.jpg",
+      "release_date": "2022-08-06",
+      "title": "One Piece: Red",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2iGUavwv86Hubv3V5Iq4qEQXDfE.jpg",
+      "genre_ids": [
+        18,
+        53,
+        27
+      ],
+      "id": 848058,
+      "original_language": "es",
+      "original_title": "Cerdita",
+      "overview": "Uma adolescente com excesso de peso é perseguida por um grupo de mulheres junto à piscina enquanto está de férias na sua cidade natal. A longa caminhada para casa vai mudar o resto da sua vida.",
+      "popularity": 801.712,
+      "poster_path": "/kmCjZjm4CHuuJdwUdn3h93WqDdR.jpg",
+      "release_date": "2022-10-07",
+      "title": "Cerdita",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ugS5FVfCI3RV0ZwZtBV3HAV75OX.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "id": 610150,
+      "original_language": "ja",
+      "original_title": "ドラゴンボール超 スーパーヒーロー",
+      "overview": "Com suas capas balançando, Gamma 1 e Gamma 2 podem ser vistos fazendo algumas poses incríveis! Além disso, há alguns novos personagens originais que teremos que esperar para descobrir mais, não importa o quão difícil possa ser! Vestindo seu uniforme e tomando o centro do palco está Gohan, que parece estar se preparando para a luta de uma vida ao lado de Piccolo, Goku, Vegeta e Pan! (sinopse temporária)",
+      "popularity": 749.799,
+      "poster_path": "/FiqBRypTDyHzqcxdbpPb3ddFep.jpg",
+      "release_date": "2022-06-11",
+      "title": "Dragon Ball Super: Super Hero",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2009
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+      "popularity": 744.904,
+      "poster_path": "/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg",
+      "release_date": "2021-12-15",
+      "title": "Homem-Aranha: Sem Volta Para Casa",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 15769
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aTovumsNlDjof7YVoU5nW2RHaYn.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 616820,
+      "original_language": "en",
+      "original_title": "Halloween Ends",
+      "overview": "Quatro anos após os eventos de Halloween Kills, Laurie Strode está morando com sua neta Allyson Nelson e terminando de escrever seu livro de memórias. Michael Myers não foi visto desde então. Laurie, depois depermitir que o espectro de Michael determinasse e conduzisse sua realidade por décadas, decidiu se libertardo medo e da raiva e abraçar a vida. Mas quando um jovem, Corey Cunningham, é acusado de matar um menino que ele estava cuidando, isso desencadeia uma cascata de violência e terror que forçará Laurie a finalmente enfrentar o mal que ela não pode controlar, de uma vez por todas.",
+      "popularity": 626.108,
+      "poster_path": "/fD2YiqLp5vXq7l2V3iYC7usWYXD.jpg",
+      "release_date": "2022-10-12",
+      "title": "Halloween Ends",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a6OX0pzbcPHstcNPK3FSJGq8Sxp.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 955644,
+      "original_language": "en",
+      "original_title": "Mia and Me: The Hero of Centopia",
+      "overview": "Mia descobre que sua pedra mágica faz parte de uma antiga profecia e embarca em uma emocionante aventura em Centopia. Junto com seus amigos, ela buscará um unicórnio encantado para salvar o reino.",
+      "popularity": 647.968,
+      "poster_path": "/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg",
+      "release_date": "2022-05-26",
+      "title": "O Mundo de Mia: A Esperança de Centopia",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/olPXihyFeeNvnaD6IOBltgIV1FU.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 882598,
+      "original_language": "en",
+      "original_title": "Smile",
+      "overview": "Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.",
+      "popularity": 632.672,
+      "poster_path": "/aDTXsc8uzJuvPLvfFBXTf9rYyTf.jpg",
+      "release_date": "2022-09-23",
+      "title": "Sorria",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mjV9gpXO2R2SOYI4ChJZiu6F1OE.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 759507,
+      "original_language": "en",
+      "original_title": "Blackout",
+      "overview": "Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!",
+      "popularity": 614.16,
+      "poster_path": "/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg",
+      "release_date": "2022-10-12",
+      "title": "Blackout",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4O9kFXsBjlxtgzXWHfgMS9CjhbN.jpg",
+      "genre_ids": [
+        53,
+        9648,
+        878
+      ],
+      "id": 619730,
+      "original_language": "en",
+      "original_title": "Don't Worry Darling",
+      "overview": "Alice e Jack têm a sorte de viver na comunidade idealizada de Victory, a cidade experimental da empresa que abriga os homens que trabalham para o ultra-secreto Projeto Victory e suas famílias. Mas quando rachaduras em sua vida idílica começam a aparecer, expondo flashes de algo muito mais sinistro à espreita sob a fachada atraente, Alice não pode deixar de questionar exatamente o que eles estão fazendo em Victory e por quê.",
+      "popularity": 519.851,
+      "poster_path": "/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg",
+      "release_date": "2022-09-21",
+      "title": "Não Se Preocupe, Querida",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 813
+    }
+  ],
+  "total_pages": 97,
+  "total_results": 1924
+}
