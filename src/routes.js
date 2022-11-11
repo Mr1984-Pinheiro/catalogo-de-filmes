@@ -9,6 +9,7 @@ import Home from "./pages/Home";
 
 import React from 'react'
 import Header from "./components/Header";
+import Error from "./pages/Error";
 
 const RoutesApp = () => {
   return (
@@ -19,6 +20,7 @@ const RoutesApp = () => {
                 </Route>
                 <Route path="/filme/:id" element={ <Filme/> } >                     
                 </Route>
+                <Route path="*" element={ <Error/> } />
             </Routes>
         </BrowserRouter>
   )
