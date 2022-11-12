@@ -1,3 +1,58 @@
 .filme-info {
+    margin: 0 auto;
     color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    max-width: 700px;
+    padding: 0px 8px;
+}
+
+.filme-info h1 {
+    margin: 14px 0;
+    color: #FFD700;
+}
+
+.filme-info img {
+    border-radius: 8px;
+    max-width: 100%;
+    max-height: 340px;
+    object-fit: cover;
+}
+
+.filme-info h3 {
+    margin: 8px 0;
+    color: #FFD700;
+}
+
+.filme-info strong {
+    margin: 10px 0;
+}
+
+.area-buttons button{
+    color: #000;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #FFD700;
+    margin-right: 5px;
+    margin-left: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all  0.5s;
+
+}
+
+.area-buttons button:hover {
+    color: #FFD700;
+    background-color:  #4B0082 ;
+}
+
+.area-buttons button a {
+    text-decoration: none;
+    color: #000;
+    transition: all  0.5s;
+}
+
+.area-buttons button a:hover {
+    color: #FFD700;
+    
 }
