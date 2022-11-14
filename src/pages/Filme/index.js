@@ -2,7 +2,7 @@ import React from 'react'
 import { useEffect, useState } from 'react'
 import { useParams, useNavigate  } from 'react-router-dom'
 import './filme.css'
-
+import { toast } from 'react-toastify'
 import api from '../../services/api'
 
 
@@ -47,13 +47,13 @@ const Filme = () => {
     const temFilme = filmesSalvos.some( (filmesSalvos) => filmesSalvos.id === filme.id )
 
     if (temFilme) {
-      alert("ESSE FILME JÁ ESTÁ NA LISTA");
+      toast.warn("Esse filme já está na sua lista!")
       return;
     }
 
     filmesSalvos.push(filme);
     localStorage.setItem("@umaChaveQualquer", JSON.stringify(filmesSalvos));
-    alert("Filme salvo com sucesso. Aleluia!!!")
+    toast.success("Filme salvo com sucesso!");
     
   }
 

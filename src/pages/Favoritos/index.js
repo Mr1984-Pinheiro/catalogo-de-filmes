@@ -1,5 +1,5 @@
 import "./favoritos.css"
-
+import { toast } from 'react-toastify'
 import React, { useState, useEffect } from 'react'
 import { Link } from "react-router-dom";
 
@@ -19,7 +19,8 @@ export default function Favoritos() {
       return (item.id !== id)
     })
     setFilmes(filtroFilmes);
-    localStorage.setItem("@umaChaveQualquer", JSON.stringify(filtroFilmes))
+    localStorage.setItem("@umaChaveQualquer", JSON.stringify(filtroFilmes));
+    toast.success("Filme removido com sucesso!");
   }
   
 
