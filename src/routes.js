@@ -10,6 +10,9 @@ import Home from "./pages/Home";
 import React from 'react'
 import Header from "./components/Header";
 import Error from "./pages/Error";
+import Favoritos from "./pages/Favoritos";
+
+
 
 const RoutesApp = () => {
   return (
@@ -20,6 +23,9 @@ const RoutesApp = () => {
                 </Route>
                 <Route path="/filme/:id" element={ <Filme/> } >                     
                 </Route>
+                 <Route path="/favoritos" element={ <Favoritos /> } /> 
+
+
                 <Route path="*" element={ <Error/> } />
             </Routes>
         </BrowserRouter>
