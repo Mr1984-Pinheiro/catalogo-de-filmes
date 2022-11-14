@@ -42,6 +42,7 @@ const Filme = () => {
     const minhaLista = localStorage.getItem('@umaChaveQualquer');
 
     let filmesSalvos = JSON.parse(minhaLista) || [];
+    
 
     const temFilme = filmesSalvos.some( (filmesSalvos) => filmesSalvos.id === filme.id )
 
