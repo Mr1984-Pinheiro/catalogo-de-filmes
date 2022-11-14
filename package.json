@@ -1,5 +1,6 @@
 {
-  "name": "cineflix",
+  "name": "filmes-em-cartaz",
+  "homepage": "https://eluxc3web.com.br/filmes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
