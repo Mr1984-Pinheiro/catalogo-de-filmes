@@ -36,7 +36,7 @@ const Filme = () => {
       return ( ) => {
 
       }
-  }, [])
+  }, [navigate, id])
 
 
   if (loading) {
@@ -61,7 +61,9 @@ const Filme = () => {
       <div className='area-buttons'>
             <button>Salvar</button>
             <button>
-              <a href='#'>Trailer</a>
+              <a target="_blank" rel="external" href={`https://www.youtube.com/results?sp=mAEB&search_query=${filme.title} Trailer`}>
+                Trailer
+                </a>
             </button>
       </div>
 
