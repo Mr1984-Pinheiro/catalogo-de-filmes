@@ -7,6 +7,19 @@
     padding: 0px 8px;
 }
 
+.filme-loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.filme-loading h1 {
+   
+    color: #FFD700;
+    margin-top: 50px;
+}
+
 .filme-info h1 {
     margin: 14px 0;
     color: #FFD700;

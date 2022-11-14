@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import { useParams  } from 'react-router-dom'
+import { useParams, useNavigate  } from 'react-router-dom'
 import './filme.css'
 
 import api from '../../services/api'
@@ -8,6 +8,7 @@ import api from '../../services/api'
 
 const Filme = () => {
   const { id } = useParams();
+  const navigate = useNavigate();
   const [filme, setFilme] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -25,7 +26,8 @@ const Filme = () => {
             setLoading(false);
           })
           .catch(() => {
-
+            navigate("/", { replace: true });
+            return;
           })
       }
 
@@ -39,7 +41,7 @@ const Filme = () => {
 
   if (loading) {
       return(
-        <div className='filme-info' >
+        <div className='filme-loading' >
           <h1>
             Carregando detalhes do filme...
           </h1>
